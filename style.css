@@ -1,0 +1,46 @@
+ body {
+  background-color : rgb(230, 230, 230);
+  color: rgb(50, 50, 50);
+
+font-family: Helvetica;
+font-size: 20px;
+ } 
+
+
+
+
+
+
+h1 {
+
+ color: black;
+ font-family: Courier;
+ font-size: 24px;
+ ;padding: 40px;
+ background-color: white;
+ margin: 50px;
+ box-shadow: 8px 10px 30px rgb(0 0 0);
+ border-radius: 4px;
+
+}
+
+h2 {
+	color: purple;
+	font-family: Courier;
+ font-size: 24px;
+ font-weight:lighter ;
+ border: 3px purple double;
+   padding: 40px;
+    background-color: white;
+    margin: 50px;
+    box-shadow: 8px 10px 30px rgb(0 0 0);
+    border-radius: 4px;
+}
+
+
+a { 
+	text-decoration: none;
+	color: darkred;
+ }
+
+  
